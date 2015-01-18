@@ -1,0 +1,506 @@
+
+{
+	"name":"Flisa",
+	"drops" : 
+	{
+		"1" : 
+		{
+			"item_id":12,
+			"sub_id":17
+		},
+		"2" : 
+		{
+			"item_id":12,
+			"sub_id":21
+		},
+		"3" : 
+		{
+			"item_id":12,
+			"sub_id":25
+		}
+	},
+	"sections" : 
+	{
+		"1" : 
+		{
+			"energy_cost":6,
+			"coin":0,
+			"drops" : 
+			{
+				"1" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"2" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"3" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"4" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"5" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"6" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"7" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				}
+			},
+			"id":1,
+			"card_exp":30,
+			"bg_id":2,
+			"daily_pass_limit":2,
+			"required_level":20,
+			"role_exp":6
+		},
+		"2" : 
+		{
+			"energy_cost":6,
+			"coin":0,
+			"drops" : 
+			{
+				"1" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"2" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"3" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"4" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"5" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"6" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"7" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"8" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"9" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"10" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				}
+			},
+			"id":2,
+			"card_exp":30,
+			"bg_id":2,
+			"daily_pass_limit":2,
+			"required_level":30,
+			"role_exp":6
+		},
+		"3" : 
+		{
+			"energy_cost":6,
+			"coin":0,
+			"drops" : 
+			{
+				"1" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"2" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"3" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"4" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"5" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"6" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"7" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"8" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"9" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"10" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"11" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"12" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				}
+			},
+			"id":3,
+			"card_exp":30,
+			"bg_id":2,
+			"daily_pass_limit":2,
+			"required_level":40,
+			"role_exp":6
+		},
+		"4" : 
+		{
+			"energy_cost":6,
+			"coin":0,
+			"drops" : 
+			{
+				"1" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"2" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"3" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"4" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"5" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"6" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"7" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"8" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"9" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"10" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"11" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"12" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				}
+			},
+			"id":4,
+			"card_exp":30,
+			"bg_id":2,
+			"daily_pass_limit":2,
+			"required_level":50,
+			"role_exp":6
+		},
+		"5" : 
+		{
+			"energy_cost":6,
+			"coin":0,
+			"drops" : 
+			{
+				"1" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"2" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"3" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"4" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"5" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"6" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"7" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"8" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"9" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"10" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"11" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"12" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				}
+			},
+			"id":5,
+			"card_exp":30,
+			"bg_id":2,
+			"daily_pass_limit":2,
+			"required_level":65,
+			"role_exp":6
+		},
+		"6" : 
+		{
+			"energy_cost":6,
+			"coin":0,
+			"drops" : 
+			{
+				"1" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"2" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"3" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":17
+				},
+				"4" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"5" : 
+				{
+					"item_id":12,
+					"chance":1,
+					"sub_id":21
+				},
+				"6" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"7" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"8" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"9" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":17
+				},
+				"10" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"11" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				},
+				"12" : 
+				{
+					"item_id":12,
+					"chance":0.5,
+					"sub_id":21
+				}
+			},
+			"id":6,
+			"card_exp":30,
+			"bg_id":2,
+			"daily_pass_limit":2,
+			"required_level":80,
+			"role_exp":6
+		}
+	},
+	"open_wday" : 
+	{
+		"1":0,
+		"2":3,
+		"3":6
+	},
+	"daily_pass_limit":2
+}

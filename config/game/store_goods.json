@@ -1,0 +1,451 @@
+{
+    // honor store
+    "1": {
+        // commodity_id : info
+        "1": {
+            "items": [
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 1,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 2,
+                    "count": 1
+                }
+            ],
+            "price": {
+                "currency": "honor",
+                "val": 5
+            },
+            "purchase_restriction": {
+                "amount": 5,
+                "type": 1
+            }
+        },
+        "2": {
+            "items": [
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 1,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 2,
+                    "count": 1
+                }
+            ],
+            "price": {
+                "currency": "honor",
+                "val": 5
+            },
+            "purchase_restriction": {
+                "amount": 5,
+                "type": 0
+            }
+        },
+        "3": {
+            "items": [
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 1,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 2,
+                    "count": 1
+                }
+            ],
+            "price": {
+                "currency": "honor",
+                "val": 15
+            },
+            "purchase_restriction": {
+                "amount": 5,
+                "type": 2
+            }
+        },
+        "4": {
+            "items": [
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 1,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "item_id": 1,
+                    "sub_id": 2,
+                    "count": 1
+                }
+            ],
+            "price": {
+                "currency": "honor",
+                "val": 15
+            },
+            "purchase_restriction": {
+                "amount": 1,
+                "type": 1
+            }
+        }
+    },
+
+    // item store
+    "2":
+    {
+        "1" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":15,
+                    "type":1,
+                    "count":1,
+                    "sub_id":3
+                }
+            },
+            "weight":1,
+            "price" :
+            {
+                "val":90,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "2" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":15,
+                    "type":1,
+                    "count":1,
+                    "sub_id":2
+                }
+            },
+            "weight":2,
+            "price" :
+            {
+                "val":450,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "3" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":9,
+                    "type":1,
+                    "count":1,
+                    "sub_id":3
+                }
+            },
+            "weight":3,
+            "price" :
+            {
+                "val":10,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "4" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":9,
+                    "type":1,
+                    "count":1,
+                    "sub_id":4
+                }
+            },
+            "weight":4,
+            "price" :
+            {
+                "val":50,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "6" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":11,
+                    "type":1,
+                    "count":1,
+                    "sub_id":1
+                }
+            },
+            "weight":6,
+            "price" :
+            {
+                "val":10,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "7" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":11,
+                    "type":1,
+                    "count":1,
+                    "sub_id":2
+                }
+            },
+            "weight":7,
+            "price" :
+            {
+                "val":25,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "8" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":11,
+                    "type":1,
+                    "count":1,
+                    "sub_id":3
+                }
+            },
+            "weight":8,
+            "price" :
+            {
+                "val":50,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "11" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":12,
+                    "type":1,
+                    "count":1,
+                    "sub_id":2
+                }
+            },
+            "weight":10,
+            "price" :
+            {
+                "val":50,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "12" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":12,
+                    "type":1,
+                    "count":1,
+                    "sub_id":3
+                }
+            },
+            "weight":11,
+            "price" :
+            {
+                "val":100,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        },
+        "16" :
+        {
+            "items" :
+            {
+                "1" :
+                {
+                    "item_id":15,
+                    "type":1,
+                    "count":1,
+                    "sub_id":1
+                }
+            },
+            "weight":14,
+            "price" :
+            {
+                "val":2680,
+                "currency":"gold"
+            },
+            "purchase_restriction" :
+            {
+                "type":0
+            }
+        }
+    },
+    // gift store
+    "3": {
+    },
+    // energy store
+    "4": {
+        // mission energy
+        "1": {
+            "items": [
+                {
+                    "type": 2,
+                    "item_id": 1,
+                    "count": 120
+                }
+            ],
+            "price": {
+                "currency": "gold",
+                // differential pricing
+                "diff": {
+                    "1": 50,
+                    "2": 50,
+                    "3": 100,
+                    "4": 100,
+                    "5": 100,
+                    "6": 200,
+                    "7": 200,
+                    "8": 200,
+                    "9": 400,
+                    "10": 400,
+                    "11": 400,
+                    "12": 400,
+                    "13": 1000,
+                    "14": 1000,
+                    "15": 1000,
+                    "16": 1000
+                }
+            },
+            "purchase_restriction": {
+                "type": 1,
+                // amount depend on vip level
+                "vip_dependent": {
+                    "0": 1,
+                    "1": 2,
+                    "2": 3,
+                    "3": 4,
+                    "4": 5,
+                    "5": 6,
+                    "6": 7,
+                    "7": 8,
+                    "8": 9,
+                    "9": 10,
+                    "10": 11,
+                    "11": 12,
+                    "12": 13,
+                    "13": 14,
+                    "14": 15,
+                    "15": 16
+                }
+            }
+        },
+        // rob energy
+        "2": {
+            "items": [
+                {
+                    "type": 2,
+                    "item_id": 2,
+                    "count": 20
+                }
+            ],
+            "price": {
+                "currency": "gold",
+                // differential pricing
+                "diff": {
+                    "1": 50,
+                    "2": 50,
+                    "3": 100,
+                    "4": 100,
+                    "5": 100,
+                    "6": 200,
+                    "7": 200,
+                    "8": 200,
+                    "9": 400,
+                    "10": 400,
+                    "11": 400,
+                    "12": 400,
+                    "13": 1000,
+                    "14": 1000,
+                    "15": 1000,
+                    "16": 1000
+                }
+            },
+            "purchase_restriction": {
+                // amount depend on vip level
+                "type": 1,
+                "vip_dependent": {
+                    "0": 1,
+                    "1": 2,
+                    "2": 3,
+                    "3": 4,
+                    "4": 5,
+                    "5": 6,
+                    "6": 7,
+                    "7": 8,
+                    "8": 9,
+                    "9": 10,
+                    "10": 11,
+                    "11": 12,
+                    "12": 13,
+                    "13": 14,
+                    "14": 15,
+                    "15": 16
+                }
+            }
+        }
+    }
+}

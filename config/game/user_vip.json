@@ -1,0 +1,132 @@
+{
+    "0":{
+        // charge less than 5 belongs to 100
+        "charge": 10,
+        "free_chat_broadcast": 10,
+        "wipe_energy": 10,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 1
+    },
+    "1": {
+        "charge": 100,
+        "free_chat_broadcast": 15,
+        "wipe_energy": 20,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 1
+    },
+    "2": {
+        "charge": 300,
+        "free_chat_broadcast": 20,
+        "wipe_energy": 30,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 1
+    },
+    "3": {
+        "charge": 500,
+        "free_chat_broadcast": 25,
+        "wipe_energy": 40,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 1
+    },
+    "4": {
+        "charge": 1000,
+        "free_chat_broadcast": 30,
+        "wipe_energy": 50,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 1
+    },
+    "5": {
+        "charge": 2000,
+        "free_chat_broadcast": 35,
+        "wipe_energy": 60,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 2
+    },
+    "6": {
+        "charge": 3000,
+        "free_chat_broadcast": 40,
+        "wipe_energy": 70,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 2
+    },
+    "7": {
+        "charge": 5000,
+        "free_chat_broadcast": 45,
+        "wipe_energy": 80,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 2
+    },
+    "8": {
+        "charge": 7000,
+        "free_chat_broadcast": 50,
+        "wipe_energy": 90,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+
+        "temple_worship_time": 2
+    },
+    "9": {
+        "charge": 10000,
+        "free_chat_broadcast": 55,
+        "wipe_energy": 100,
+        "karin_reset_time": 1,
+        "crusade_reset_time": 1,
+        "temple_worship_time": 2
+    },
+    "10": {
+        "charge": 15000,
+        "free_chat_broadcast": 60,
+        "wipe_energy": 110,
+        "karin_reset_time": 2,
+        "crusade_reset_time": 2,
+        "temple_worship_time": 3
+    },
+    "11": {
+        "charge": 20000,
+        "free_chat_broadcast": 65,
+        "wipe_energy": 120,
+        "karin_reset_time": 2,
+        "crusade_reset_time": 2,
+        "temple_worship_time": 3
+    },
+    "12": {
+        "charge": 40000,
+        "free_chat_broadcast": 70,
+        "wipe_energy": 130,
+        "karin_reset_time": 2,
+        "crusade_reset_time": 2,
+        "temple_worship_time": 3
+    },
+    "13": {
+        "charge": 80000,
+        "free_chat_broadcast": 80,
+        "wipe_energy": 140,
+        "karin_reset_time": 2,
+        "crusade_reset_time": 2,
+        "temple_worship_time": 3
+    },
+    "14": {
+        "charge": 150000,
+        "free_chat_broadcast": 90,
+        "wipe_energy": 150,
+        "karin_reset_time": 2,
+        "crusade_reset_time": 2,
+        "temple_worship_time": 3
+    },
+    "15": {
+        "charge": 150000,
+        "free_chat_broadcast": 99,
+        "wipe_energy": 160,
+        "karin_reset_time": 2,
+        "crusade_reset_time": 2,
+        "temple_worship_time": 3
+    }
+}

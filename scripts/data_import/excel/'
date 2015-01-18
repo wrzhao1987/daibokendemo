@@ -1,0 +1,25 @@
+local SLAXML = require('excel.slaxdom')
+
+function test()
+end
+
+local function ExcelParser(path)
+	local file, err = io.open(path, "r")
+	if file then
+		local text = file:read("*a")
+		file:close()
+
+		local doc = SLAXML:dom(text, {simple=true})
+		for k,v in pairs(doc.kids) do
+            print("key:"..k..', type'..type(k))
+            if v.type=='element' then
+            else
+            end
+
+        end
+	else
+		return false, err
+	end
+end
+
+test()

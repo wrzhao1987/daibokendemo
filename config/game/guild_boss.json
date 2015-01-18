@@ -1,0 +1,1323 @@
+
+{
+	"1" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":7
+			}
+		},
+		"hp":3910659,
+		"required_group_level":1,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":40,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":10,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":4,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":30,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":30,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":30,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":30,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":10,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":10,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":10,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":10,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":5,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":5,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":5,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":5,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":100,
+				"sub_id":5
+			}
+		},
+		"summon_cost":100000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			}
+		},
+		"name":"邪恶黑人将军",
+		"challenge_cost":20
+	},
+	"2" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":7
+			}
+		},
+		"hp":3416728,
+		"required_group_level":2,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":52,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":13,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":5,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":39,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":39,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":39,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":39,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":13,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":13,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":13,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":13,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":6,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":6,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":6,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":6,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":130,
+				"sub_id":5
+			}
+		},
+		"summon_cost":200000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			}
+		},
+		"name":"狡诈炒饭大王",
+		"challenge_cost":20
+	},
+	"3" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":7
+			}
+		},
+		"hp":7931385,
+		"required_group_level":3,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":64,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":16,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":6,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":48,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":48,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":48,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":48,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":16,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":16,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":16,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":16,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":8,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":8,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":8,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":8,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":160,
+				"sub_id":5
+			}
+		},
+		"summon_cost":300000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			}
+		},
+		"name":"冷酷杀手桃",
+		"challenge_cost":20
+	},
+	"4" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":7
+			}
+		},
+		"hp":9705466,
+		"required_group_level":4,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":76,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":19,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":7,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":57,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":57,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":57,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":57,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":19,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":19,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":19,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":19,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":9,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":9,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":9,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":9,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":190,
+				"sub_id":5
+			}
+		},
+		"summon_cost":400000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":1,
+				"sub_id":9
+			}
+		},
+		"name":"卑鄙贪财仙人",
+		"challenge_cost":20
+	},
+	"5" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":7
+			}
+		},
+		"hp":8543235,
+		"required_group_level":5,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":88,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":22,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":8,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":66,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":66,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":66,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":66,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":22,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":22,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":22,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":22,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":11,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":11,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":11,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":11,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":220,
+				"sub_id":5
+			}
+		},
+		"summon_cost":500000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":9
+			}
+		},
+		"name":"阴险大魔王",
+		"challenge_cost":20
+	},
+	"6" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":7
+			}
+		},
+		"hp":18183510,
+		"required_group_level":6,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":100,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":25,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":10,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":75,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":75,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":75,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":75,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":25,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":25,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":25,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":25,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":12,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":12,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":12,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":12,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":250,
+				"sub_id":5
+			}
+		},
+		"summon_cost":600000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":9
+			}
+		},
+		"name":"无情机械杀手",
+		"challenge_cost":20
+	},
+	"7" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":7
+			}
+		},
+		"hp":34171321,
+		"required_group_level":7,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":112,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":28,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":11,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":84,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":84,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":84,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":84,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":28,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":28,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":28,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":28,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":14,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":14,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":14,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":14,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":280,
+				"sub_id":5
+			}
+		},
+		"summon_cost":700000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":2,
+				"sub_id":9
+			}
+		},
+		"name":"傲慢拉蒂",
+		"challenge_cost":20
+	},
+	"8" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":7
+			}
+		},
+		"hp":16706654,
+		"required_group_level":8,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":124,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":31,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":12,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":93,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":93,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":93,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":93,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":31,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":31,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":31,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":31,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":15,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":15,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":15,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":15,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":310,
+				"sub_id":5
+			}
+		},
+		"summon_cost":800000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":9
+			}
+		},
+		"name":"狡猾菲利萨",
+		"challenge_cost":20
+	},
+	"9" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":7
+			}
+		},
+		"hp":20150251,
+		"required_group_level":9,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":136,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":34,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":13,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":102,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":102,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":102,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":102,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":34,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":34,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":34,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":34,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":17,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":17,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":17,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":17,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":340,
+				"sub_id":5
+			}
+		},
+		"summon_cost":900000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":9
+			}
+		},
+		"name":"诡谲希尔鲁",
+		"challenge_cost":20
+	},
+	"10" : 
+	{
+		"challenge_interval":1800,
+		"drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":7
+			}
+		},
+		"hp":24117076,
+		"required_group_level":10,
+		"shared_drops" : 
+		{
+			"1" : 
+			{
+				"item_id":15,
+				"count":148,
+				"sub_id":6
+			},
+			"2" : 
+			{
+				"item_id":15,
+				"count":37,
+				"sub_id":7
+			},
+			"3" : 
+			{
+				"item_id":15,
+				"count":14,
+				"sub_id":8
+			},
+			"4" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":9
+			},
+			"5" : 
+			{
+				"item_id":12,
+				"count":111,
+				"sub_id":15
+			},
+			"6" : 
+			{
+				"item_id":12,
+				"count":111,
+				"sub_id":16
+			},
+			"7" : 
+			{
+				"item_id":12,
+				"count":111,
+				"sub_id":17
+			},
+			"8" : 
+			{
+				"item_id":12,
+				"count":111,
+				"sub_id":18
+			},
+			"9" : 
+			{
+				"item_id":12,
+				"count":37,
+				"sub_id":19
+			},
+			"10" : 
+			{
+				"item_id":12,
+				"count":37,
+				"sub_id":20
+			},
+			"11" : 
+			{
+				"item_id":12,
+				"count":37,
+				"sub_id":21
+			},
+			"12" : 
+			{
+				"item_id":12,
+				"count":37,
+				"sub_id":22
+			},
+			"13" : 
+			{
+				"item_id":12,
+				"count":18,
+				"sub_id":23
+			},
+			"14" : 
+			{
+				"item_id":12,
+				"count":18,
+				"sub_id":24
+			},
+			"15" : 
+			{
+				"item_id":12,
+				"count":18,
+				"sub_id":25
+			},
+			"16" : 
+			{
+				"item_id":12,
+				"count":18,
+				"sub_id":26
+			},
+			"0" : 
+			{
+				"item_id":15,
+				"count":370,
+				"sub_id":5
+			}
+		},
+		"summon_cost":1000000,
+		"top_drops" : 
+		{
+			"0" : 
+			{
+				"item_id":15,
+				"count":3,
+				"sub_id":9
+			}
+		},
+		"name":"黑暗瘦布普",
+		"challenge_cost":20
+	}
+}

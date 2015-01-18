@@ -1,0 +1,402 @@
+
+{
+	"1" : 
+	{
+		"mod_type":"atk",
+		"level_cfg" : 
+		{
+			"1" : 
+			{
+				"mod_value":8,
+				"exp_limit":300,
+				"required_level":37
+			},
+			"2" : 
+			{
+				"mod_value":16,
+				"exp_limit":700,
+				"required_level":39
+			},
+			"3" : 
+			{
+				"mod_value":24,
+				"exp_limit":1500,
+				"required_level":41
+			},
+			"4" : 
+			{
+				"mod_value":32,
+				"exp_limit":2700,
+				"required_level":43
+			},
+			"5" : 
+			{
+				"mod_value":40,
+				"exp_limit":4700,
+				"required_level":45
+			},
+			"6" : 
+			{
+				"mod_value":48,
+				"exp_limit":7200,
+				"required_level":47
+			},
+			"7" : 
+			{
+				"mod_value":56,
+				"exp_limit":10200,
+				"required_level":49
+			},
+			"8" : 
+			{
+				"mod_value":64,
+				"exp_limit":14200,
+				"required_level":51
+			},
+			"9" : 
+			{
+				"mod_value":72,
+				"exp_limit":19200,
+				"required_level":53
+			},
+			"10" : 
+			{
+				"mod_value":80,
+				"exp_limit":26200,
+				"required_level":55
+			},
+			"11" : 
+			{
+				"mod_value":88,
+				"exp_limit":36200,
+				"required_level":57
+			},
+			"12" : 
+			{
+				"mod_value":96,
+				"exp_limit":51200,
+				"required_level":59
+			},
+			"13" : 
+			{
+				"mod_value":104,
+				"exp_limit":71200,
+				"required_level":61
+			},
+			"14" : 
+			{
+				"mod_value":112,
+				"exp_limit":96200,
+				"required_level":63
+			},
+			"15" : 
+			{
+				"mod_value":120,
+				"exp_limit":126200,
+				"required_level":65
+			},
+			"16" : 
+			{
+				"mod_value":128,
+				"exp_limit":161200,
+				"required_level":67
+			},
+			"17" : 
+			{
+				"mod_value":136,
+				"exp_limit":201200,
+				"required_level":69
+			},
+			"18" : 
+			{
+				"mod_value":144,
+				"exp_limit":246200,
+				"required_level":71
+			},
+			"19" : 
+			{
+				"mod_value":152,
+				"exp_limit":296200,
+				"required_level":73
+			},
+			"20" : 
+			{
+				"mod_value":160,
+				"exp_limit":296200,
+				"required_level":75
+			},
+			"0" : 
+			{
+				"mod_value":0,
+				"exp_limit":100,
+				"required_level":37
+			}
+		}
+	},
+	"2" : 
+	{
+		"mod_type":"def",
+		"level_cfg" : 
+		{
+			"1" : 
+			{
+				"mod_value":3,
+				"exp_limit":300,
+				"required_level":30
+			},
+			"2" : 
+			{
+				"mod_value":6,
+				"exp_limit":700,
+				"required_level":32
+			},
+			"3" : 
+			{
+				"mod_value":9,
+				"exp_limit":1500,
+				"required_level":34
+			},
+			"4" : 
+			{
+				"mod_value":12,
+				"exp_limit":2700,
+				"required_level":36
+			},
+			"5" : 
+			{
+				"mod_value":15,
+				"exp_limit":4700,
+				"required_level":38
+			},
+			"6" : 
+			{
+				"mod_value":18,
+				"exp_limit":7200,
+				"required_level":40
+			},
+			"7" : 
+			{
+				"mod_value":21,
+				"exp_limit":10200,
+				"required_level":42
+			},
+			"8" : 
+			{
+				"mod_value":24,
+				"exp_limit":14200,
+				"required_level":44
+			},
+			"9" : 
+			{
+				"mod_value":27,
+				"exp_limit":19200,
+				"required_level":46
+			},
+			"10" : 
+			{
+				"mod_value":30,
+				"exp_limit":26200,
+				"required_level":48
+			},
+			"11" : 
+			{
+				"mod_value":33,
+				"exp_limit":36200,
+				"required_level":50
+			},
+			"12" : 
+			{
+				"mod_value":36,
+				"exp_limit":51200,
+				"required_level":52
+			},
+			"13" : 
+			{
+				"mod_value":39,
+				"exp_limit":71200,
+				"required_level":54
+			},
+			"14" : 
+			{
+				"mod_value":42,
+				"exp_limit":96200,
+				"required_level":56
+			},
+			"15" : 
+			{
+				"mod_value":45,
+				"exp_limit":126200,
+				"required_level":58
+			},
+			"16" : 
+			{
+				"mod_value":48,
+				"exp_limit":161200,
+				"required_level":60
+			},
+			"17" : 
+			{
+				"mod_value":51,
+				"exp_limit":201200,
+				"required_level":62
+			},
+			"18" : 
+			{
+				"mod_value":54,
+				"exp_limit":246200,
+				"required_level":64
+			},
+			"19" : 
+			{
+				"mod_value":57,
+				"exp_limit":296200,
+				"required_level":66
+			},
+			"20" : 
+			{
+				"mod_value":60,
+				"exp_limit":296200,
+				"required_level":68
+			},
+			"0" : 
+			{
+				"mod_value":0,
+				"exp_limit":100,
+				"required_level":30
+			}
+		}
+	},
+	"3" : 
+	{
+		"mod_type":"hp",
+		"level_cfg" : 
+		{
+			"1" : 
+			{
+				"mod_value":40,
+				"exp_limit":300,
+				"required_level":22
+			},
+			"2" : 
+			{
+				"mod_value":80,
+				"exp_limit":700,
+				"required_level":24
+			},
+			"3" : 
+			{
+				"mod_value":120,
+				"exp_limit":1500,
+				"required_level":26
+			},
+			"4" : 
+			{
+				"mod_value":160,
+				"exp_limit":2700,
+				"required_level":28
+			},
+			"5" : 
+			{
+				"mod_value":200,
+				"exp_limit":4700,
+				"required_level":30
+			},
+			"6" : 
+			{
+				"mod_value":240,
+				"exp_limit":7200,
+				"required_level":32
+			},
+			"7" : 
+			{
+				"mod_value":280,
+				"exp_limit":10200,
+				"required_level":34
+			},
+			"8" : 
+			{
+				"mod_value":320,
+				"exp_limit":14200,
+				"required_level":36
+			},
+			"9" : 
+			{
+				"mod_value":360,
+				"exp_limit":19200,
+				"required_level":38
+			},
+			"10" : 
+			{
+				"mod_value":400,
+				"exp_limit":26200,
+				"required_level":40
+			},
+			"11" : 
+			{
+				"mod_value":440,
+				"exp_limit":36200,
+				"required_level":42
+			},
+			"12" : 
+			{
+				"mod_value":480,
+				"exp_limit":51200,
+				"required_level":44
+			},
+			"13" : 
+			{
+				"mod_value":520,
+				"exp_limit":71200,
+				"required_level":46
+			},
+			"14" : 
+			{
+				"mod_value":560,
+				"exp_limit":96200,
+				"required_level":48
+			},
+			"15" : 
+			{
+				"mod_value":600,
+				"exp_limit":126200,
+				"required_level":50
+			},
+			"16" : 
+			{
+				"mod_value":640,
+				"exp_limit":161200,
+				"required_level":52
+			},
+			"17" : 
+			{
+				"mod_value":680,
+				"exp_limit":201200,
+				"required_level":54
+			},
+			"18" : 
+			{
+				"mod_value":720,
+				"exp_limit":246200,
+				"required_level":56
+			},
+			"19" : 
+			{
+				"mod_value":760,
+				"exp_limit":296200,
+				"required_level":58
+			},
+			"20" : 
+			{
+				"mod_value":800,
+				"exp_limit":296200,
+				"required_level":60
+			},
+			"0" : 
+			{
+				"mod_value":0,
+				"exp_limit":100,
+				"required_level":22
+			}
+		}
+	}
+}

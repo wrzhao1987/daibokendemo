@@ -1,0 +1,65 @@
+{
+    // rank achievement award
+    "8":{
+        "rank": 5000,
+        "items":[
+            {"item_id":9, "sub_id":2, "count":10},
+            {"item_id":2, "sub_id":1, "count":10000}
+        ]
+    },
+    "7":{
+        "rank": 3000,
+        "items":[
+            {"item_id":9, "sub_id":2, "count":30},
+            {"item_id":2, "sub_id":1, "count":30000}
+        ]
+    },
+    "6":{
+        "rank": 1000,
+        "items":[
+            {"item_id":9, "sub_id":3, "count":10},
+            {"item_id":2, "sub_id":1, "count":50000},
+            {"item_id":3, "sub_id":21, "count":1}
+        ]
+    },
+    "5":{
+        "rank": 500,
+        "items":[
+            {"item_id":9, "sub_id":3, "count":20},
+            {"item_id":2, "sub_id":1, "count":80000},
+            {"item_id":6, "sub_id":21, "count":20}
+        ]
+    },
+    "4":{
+        "rank": 100,
+        "items":[
+            {"item_id":6, "sub_id":34, "count":5},
+            {"item_id":2, "sub_id":1, "count":100000},
+            {"item_id":9, "sub_id":3, "count":30}
+        ]
+    },
+    "3":{
+        "rank": 50,
+        "items":[
+            {"item_id":6, "sub_id":34, "count":5},
+            {"item_id":2, "sub_id":1, "count":150000},
+            {"item_id":9, "sub_id":4, "count":10}
+        ]
+    },
+    "2":{
+        "rank": 10,
+        "items":[
+            {"item_id":3, "sub_id":34, "count":1},
+            {"item_id":2, "sub_id":1, "count":300000},
+            {"item_id":9, "sub_id":4, "count":20}
+        ]
+    },
+    "1":{
+        "rank": 1,
+        "items":[
+            {"item_id":3, "sub_id":34, "count":1},
+            {"item_id":2, "sub_id":1, "count":500000},
+            {"item_id":9, "sub_id":4, "count":30}
+        ]
+    }
+}

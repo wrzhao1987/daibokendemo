@@ -1,0 +1,70 @@
+
+{
+	"6" : 
+	{
+		"virgin_extra":285,
+		"virgin_desc":"首次送300钻石",
+		"name":"300钻石",
+		"gold":300,
+		"id":6,
+		"extra_gold":15,
+		"price":30,
+		"desc":"另外赠送15钻石"
+	},
+	"2" : 
+	{
+		"virgin_extra":5000,
+		"virgin_desc":"首次送6480钻石",
+		"name":"6480钻石",
+		"gold":6480,
+		"id":2,
+		"extra_gold":1480,
+		"price":648,
+		"desc":"另外赠送1480钻石"
+	},
+	"3" : 
+	{
+		"name":"3280钻石",
+		"gold":3280,
+		"id":3,
+		"extra_gold":600,
+		"price":328,
+		"desc":"另外赠送600钻石"
+	},
+	"1" : 
+	{
+		"name":"300钻石月卡包",
+		"gold":300,
+		"id":1,
+		"price":30,
+		"desc":"连续30天每天可领取\n120钻"
+	},
+	"4" : 
+	{
+		"virgin_extra":1740,
+		"virgin_desc":"首次送1980钻石",
+		"name":"1980钻石",
+		"gold":1980,
+		"id":4,
+		"extra_gold":240,
+		"price":198,
+		"desc":"另外赠送240钻石"
+	},
+	"5" : 
+	{
+		"name":"980钻石",
+		"gold":980,
+		"id":5,
+		"extra_gold":80,
+		"price":98,
+		"desc":"另外赠送80钻石"
+	},
+	"7" : 
+	{
+		"name":"60钻石",
+		"gold":60,
+		"id":7,
+		"price":6,
+		"desc":""
+	}
+}

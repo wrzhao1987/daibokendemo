@@ -1,0 +1,611 @@
+
+{
+	"level_exp_boundary" : 
+	{
+		"1":10,
+		"2":30,
+		"3":60,
+		"4":100,
+		"5":115,
+		"6":140,
+		"7":175,
+		"8":210,
+		"9":275,
+		"10":355,
+		"11":455,
+		"12":585,
+		"13":715,
+		"14":845,
+		"15":975,
+		"16":1105,
+		"17":1235,
+		"18":1365,
+		"19":1495,
+		"20":1625,
+		"21":1755,
+		"22":1905,
+		"23":2065,
+		"24":2245,
+		"25":2435,
+		"26":2635,
+		"27":2875,
+		"28":3155,
+		"29":3455,
+		"30":3805,
+		"31":4205,
+		"32":4655,
+		"33":5155,
+		"34":5765,
+		"35":6485,
+		"36":7315,
+		"37":8415,
+		"38":9615,
+		"39":10815,
+		"40":12315,
+		"41":13815,
+		"42":15515,
+		"43":17215,
+		"44":18915,
+		"45":20715,
+		"46":22715,
+		"47":24715,
+		"48":26915,
+		"49":29115,
+		"50":31415,
+		"51":33715,
+		"52":36015,
+		"53":38515,
+		"54":41215,
+		"55":43915,
+		"56":46715,
+		"57":49715,
+		"58":52915,
+		"59":56215,
+		"60":59515,
+		"61":62815,
+		"62":66315,
+		"63":69815,
+		"64":73515,
+		"65":77315,
+		"66":81315,
+		"67":85515,
+		"68":89815,
+		"69":94315,
+		"70":99015,
+		"71":103715,
+		"72":108415,
+		"73":113115,
+		"74":117815,
+		"75":122515,
+		"76":127215,
+		"77":131915,
+		"78":136615,
+		"79":141415,
+		"80":146415,
+		"81":151415,
+		"82":156415,
+		"83":161415,
+		"84":166415,
+		"85":171615,
+		"86":176815,
+		"87":182015,
+		"88":187215,
+		"89":192415,
+		"90":197915,
+		"91":203415,
+		"92":208915,
+		"93":214415,
+		"94":219915,
+		"95":225915,
+		"96":231915,
+		"97":237915,
+		"98":243915,
+		"99":249915,
+		"100":249915,
+		"0":0
+	},
+	"level_config" : 
+	{
+		"1" : 
+		{
+			"mission_energy_limit":61,
+			"card_level_limit":10
+		},
+		"2" : 
+		{
+			"mission_energy_limit":62,
+			"card_level_limit":10
+		},
+		"3" : 
+		{
+			"mission_energy_limit":63,
+			"card_level_limit":11
+		},
+		"4" : 
+		{
+			"mission_energy_limit":64,
+			"card_level_limit":11
+		},
+		"5" : 
+		{
+			"mission_energy_limit":65,
+			"card_level_limit":12
+		},
+		"6" : 
+		{
+			"mission_energy_limit":66,
+			"card_level_limit":12
+		},
+		"7" : 
+		{
+			"mission_energy_limit":67,
+			"card_level_limit":13
+		},
+		"8" : 
+		{
+			"mission_energy_limit":68,
+			"card_level_limit":13
+		},
+		"9" : 
+		{
+			"mission_energy_limit":69,
+			"card_level_limit":14
+		},
+		"10" : 
+		{
+			"mission_energy_limit":70,
+			"card_level_limit":14
+		},
+		"11" : 
+		{
+			"mission_energy_limit":71,
+			"card_level_limit":15
+		},
+		"12" : 
+		{
+			"mission_energy_limit":72,
+			"card_level_limit":15
+		},
+		"13" : 
+		{
+			"mission_energy_limit":73,
+			"card_level_limit":16
+		},
+		"14" : 
+		{
+			"mission_energy_limit":74,
+			"card_level_limit":16
+		},
+		"15" : 
+		{
+			"mission_energy_limit":75,
+			"card_level_limit":17
+		},
+		"16" : 
+		{
+			"mission_energy_limit":76,
+			"card_level_limit":17
+		},
+		"17" : 
+		{
+			"mission_energy_limit":77,
+			"card_level_limit":18
+		},
+		"18" : 
+		{
+			"mission_energy_limit":78,
+			"card_level_limit":18
+		},
+		"19" : 
+		{
+			"mission_energy_limit":79,
+			"card_level_limit":19
+		},
+		"20" : 
+		{
+			"mission_energy_limit":80,
+			"card_level_limit":20
+		},
+		"21" : 
+		{
+			"mission_energy_limit":81,
+			"card_level_limit":21
+		},
+		"22" : 
+		{
+			"mission_energy_limit":82,
+			"card_level_limit":22
+		},
+		"23" : 
+		{
+			"mission_energy_limit":83,
+			"card_level_limit":23
+		},
+		"24" : 
+		{
+			"mission_energy_limit":84,
+			"card_level_limit":24
+		},
+		"25" : 
+		{
+			"mission_energy_limit":85,
+			"card_level_limit":25
+		},
+		"26" : 
+		{
+			"mission_energy_limit":86,
+			"card_level_limit":26
+		},
+		"27" : 
+		{
+			"mission_energy_limit":87,
+			"card_level_limit":27
+		},
+		"28" : 
+		{
+			"mission_energy_limit":88,
+			"card_level_limit":28
+		},
+		"29" : 
+		{
+			"mission_energy_limit":89,
+			"card_level_limit":29
+		},
+		"30" : 
+		{
+			"mission_energy_limit":90,
+			"card_level_limit":30
+		},
+		"31" : 
+		{
+			"mission_energy_limit":91,
+			"card_level_limit":31
+		},
+		"32" : 
+		{
+			"mission_energy_limit":92,
+			"card_level_limit":32
+		},
+		"33" : 
+		{
+			"mission_energy_limit":93,
+			"card_level_limit":33
+		},
+		"34" : 
+		{
+			"mission_energy_limit":94,
+			"card_level_limit":34
+		},
+		"35" : 
+		{
+			"mission_energy_limit":95,
+			"card_level_limit":35
+		},
+		"36" : 
+		{
+			"mission_energy_limit":96,
+			"card_level_limit":36
+		},
+		"37" : 
+		{
+			"mission_energy_limit":97,
+			"card_level_limit":37
+		},
+		"38" : 
+		{
+			"mission_energy_limit":98,
+			"card_level_limit":38
+		},
+		"39" : 
+		{
+			"mission_energy_limit":99,
+			"card_level_limit":39
+		},
+		"40" : 
+		{
+			"mission_energy_limit":100,
+			"card_level_limit":40
+		},
+		"41" : 
+		{
+			"mission_energy_limit":101,
+			"card_level_limit":41
+		},
+		"42" : 
+		{
+			"mission_energy_limit":102,
+			"card_level_limit":42
+		},
+		"43" : 
+		{
+			"mission_energy_limit":103,
+			"card_level_limit":43
+		},
+		"44" : 
+		{
+			"mission_energy_limit":104,
+			"card_level_limit":44
+		},
+		"45" : 
+		{
+			"mission_energy_limit":105,
+			"card_level_limit":45
+		},
+		"46" : 
+		{
+			"mission_energy_limit":106,
+			"card_level_limit":46
+		},
+		"47" : 
+		{
+			"mission_energy_limit":107,
+			"card_level_limit":47
+		},
+		"48" : 
+		{
+			"mission_energy_limit":108,
+			"card_level_limit":48
+		},
+		"49" : 
+		{
+			"mission_energy_limit":109,
+			"card_level_limit":49
+		},
+		"50" : 
+		{
+			"mission_energy_limit":110,
+			"card_level_limit":50
+		},
+		"51" : 
+		{
+			"mission_energy_limit":111,
+			"card_level_limit":51
+		},
+		"52" : 
+		{
+			"mission_energy_limit":112,
+			"card_level_limit":52
+		},
+		"53" : 
+		{
+			"mission_energy_limit":113,
+			"card_level_limit":53
+		},
+		"54" : 
+		{
+			"mission_energy_limit":114,
+			"card_level_limit":54
+		},
+		"55" : 
+		{
+			"mission_energy_limit":115,
+			"card_level_limit":55
+		},
+		"56" : 
+		{
+			"mission_energy_limit":116,
+			"card_level_limit":56
+		},
+		"57" : 
+		{
+			"mission_energy_limit":117,
+			"card_level_limit":57
+		},
+		"58" : 
+		{
+			"mission_energy_limit":118,
+			"card_level_limit":58
+		},
+		"59" : 
+		{
+			"mission_energy_limit":119,
+			"card_level_limit":59
+		},
+		"60" : 
+		{
+			"mission_energy_limit":120,
+			"card_level_limit":60
+		},
+		"61" : 
+		{
+			"mission_energy_limit":121,
+			"card_level_limit":61
+		},
+		"62" : 
+		{
+			"mission_energy_limit":122,
+			"card_level_limit":62
+		},
+		"63" : 
+		{
+			"mission_energy_limit":123,
+			"card_level_limit":63
+		},
+		"64" : 
+		{
+			"mission_energy_limit":124,
+			"card_level_limit":64
+		},
+		"65" : 
+		{
+			"mission_energy_limit":125,
+			"card_level_limit":65
+		},
+		"66" : 
+		{
+			"mission_energy_limit":126,
+			"card_level_limit":66
+		},
+		"67" : 
+		{
+			"mission_energy_limit":127,
+			"card_level_limit":67
+		},
+		"68" : 
+		{
+			"mission_energy_limit":128,
+			"card_level_limit":68
+		},
+		"69" : 
+		{
+			"mission_energy_limit":129,
+			"card_level_limit":69
+		},
+		"70" : 
+		{
+			"mission_energy_limit":130,
+			"card_level_limit":70
+		},
+		"71" : 
+		{
+			"mission_energy_limit":131,
+			"card_level_limit":71
+		},
+		"72" : 
+		{
+			"mission_energy_limit":132,
+			"card_level_limit":72
+		},
+		"73" : 
+		{
+			"mission_energy_limit":133,
+			"card_level_limit":73
+		},
+		"74" : 
+		{
+			"mission_energy_limit":134,
+			"card_level_limit":74
+		},
+		"75" : 
+		{
+			"mission_energy_limit":135,
+			"card_level_limit":75
+		},
+		"76" : 
+		{
+			"mission_energy_limit":136,
+			"card_level_limit":76
+		},
+		"77" : 
+		{
+			"mission_energy_limit":137,
+			"card_level_limit":77
+		},
+		"78" : 
+		{
+			"mission_energy_limit":138,
+			"card_level_limit":78
+		},
+		"79" : 
+		{
+			"mission_energy_limit":139,
+			"card_level_limit":79
+		},
+		"80" : 
+		{
+			"mission_energy_limit":140,
+			"card_level_limit":80
+		},
+		"81" : 
+		{
+			"mission_energy_limit":141,
+			"card_level_limit":81
+		},
+		"82" : 
+		{
+			"mission_energy_limit":142,
+			"card_level_limit":82
+		},
+		"83" : 
+		{
+			"mission_energy_limit":143,
+			"card_level_limit":83
+		},
+		"84" : 
+		{
+			"mission_energy_limit":144,
+			"card_level_limit":84
+		},
+		"85" : 
+		{
+			"mission_energy_limit":145,
+			"card_level_limit":85
+		},
+		"86" : 
+		{
+			"mission_energy_limit":146,
+			"card_level_limit":86
+		},
+		"87" : 
+		{
+			"mission_energy_limit":147,
+			"card_level_limit":87
+		},
+		"88" : 
+		{
+			"mission_energy_limit":148,
+			"card_level_limit":88
+		},
+		"89" : 
+		{
+			"mission_energy_limit":149,
+			"card_level_limit":89
+		},
+		"90" : 
+		{
+			"mission_energy_limit":150,
+			"card_level_limit":90
+		},
+		"91" : 
+		{
+			"mission_energy_limit":151,
+			"card_level_limit":91
+		},
+		"92" : 
+		{
+			"mission_energy_limit":152,
+			"card_level_limit":92
+		},
+		"93" : 
+		{
+			"mission_energy_limit":153,
+			"card_level_limit":93
+		},
+		"94" : 
+		{
+			"mission_energy_limit":154,
+			"card_level_limit":94
+		},
+		"95" : 
+		{
+			"mission_energy_limit":155,
+			"card_level_limit":95
+		},
+		"96" : 
+		{
+			"mission_energy_limit":156,
+			"card_level_limit":96
+		},
+		"97" : 
+		{
+			"mission_energy_limit":157,
+			"card_level_limit":97
+		},
+		"98" : 
+		{
+			"mission_energy_limit":158,
+			"card_level_limit":98
+		},
+		"99" : 
+		{
+			"mission_energy_limit":159,
+			"card_level_limit":99
+		},
+		"100" : 
+		{
+			"mission_energy_limit":160,
+			"card_level_limit":100
+		}
+	},
+	"rob_energy_limit":20
+}
